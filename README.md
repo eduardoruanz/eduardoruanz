@@ -13,14 +13,12 @@ Olá! Bem-vindo ao meu perfil do GitHub. Sou um apaixonado por tecnologia, progr
 - 📦 Bancos de Dados: MySQL
 - 📚 Sempre aprendendo e explorando novas tecnologias.
 
-## Projetos
 
-- 🚀 [Projeto Legal](https://github.com/seu-username/projeto-legal): Uma breve descrição do projeto legal.
-- 🚀 [Outro Projeto Incrível](https://github.com/seu-username/outro-projeto-incrivel): Outra breve descrição de outro projeto incrível.
+<!--  - 🚀 [Projeto Legal](https://github.com/seu-username/projeto-legal): Uma breve descrição do projeto legal.
+- 🚀 [Outro Projeto Incrível](https://github.com/seu-username/outro-projeto-incrivel): Outra breve descrição de outro projeto incrível.  -->
 
-## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eduardoruanz&show_icons=true)
+<!-- ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eduardoruanz&show_icons=true) -->
 
 ## Conecte-se Comigo
 
