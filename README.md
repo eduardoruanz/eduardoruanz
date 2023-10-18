@@ -3,7 +3,7 @@
 
 👨‍💻 Desenvolvedor de Software | 🌐 Entusiasta de Tecnologia | 📚 Sempre Aprendendo
 
-Olá! Bem-vindo ao meu perfil do GitHub. Sou um apaixonado por tecnologia, programação e estou constantemente explorando novas ideias e projetos. Aqui estão algumas informações sobre mim:
+Olá! Bem-vindo ao meu perfil do GitHub. Sou um apaixonado por tecnologia, programação e estou constantemente explorando novas ideias e projetos.
 
 
 <!--  - 🚀 [Projeto Legal](https://github.com/seu-username/projeto-legal): Uma breve descrição do projeto legal.
