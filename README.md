@@ -1,5 +1,5 @@
 <!-- Seu Nome -->
-# [Eduardo Ruan]
+# Eduardo Ruan
 
 👨‍💻 Desenvolvedor de Software | 🌐 Entusiasta de Tecnologia | 📚 Sempre Aprendendo
 
