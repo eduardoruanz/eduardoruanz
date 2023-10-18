@@ -5,14 +5,6 @@
 
 Olá! Bem-vindo ao meu perfil do GitHub. Sou um apaixonado por tecnologia, programação e estou constantemente explorando novas ideias e projetos. Aqui estão algumas informações sobre mim:
 
-## Habilidades Técnicas
-
-- 💻 Linguagens de Programação: Python, JavaScript, PHP
-- 🛠️ Ferramentas e Tecnologias:  MVC e Git
-- 🌐 Desenvolvimento Web: HTML, CSS, PHP, MYSQL
-- 📦 Bancos de Dados: MySQL
-- 📚 Sempre aprendendo e explorando novas tecnologias.
-
 
 <!--  - 🚀 [Projeto Legal](https://github.com/seu-username/projeto-legal): Uma breve descrição do projeto legal.
 - 🚀 [Outro Projeto Incrível](https://github.com/seu-username/outro-projeto-incrivel): Outra breve descrição de outro projeto incrível.  -->
